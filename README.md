@@ -5,7 +5,7 @@ This snakemake pipeline is used for human WGS and WES sequencing projects and su
 ## Pipeline summary
 
 - Step1: Quality check and trimming
-  1. Raw read QC (`FastQC`)
+  *1. Raw read QC (`FastQC`)
   2. 3' adapter trimming (`Cutadapt`)
   3. Present QC for raw read (`MultiQC`)
   
